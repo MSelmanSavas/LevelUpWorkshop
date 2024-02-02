@@ -1,0 +1,16 @@
+{
+    "name": "UsefulDataTypes.Utils",
+    "rootNamespace": "UsefulDataTypes.Utils",
+    "references": [
+        "GUID:a031ae05006fb4f468fd8cfafa46e6c0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

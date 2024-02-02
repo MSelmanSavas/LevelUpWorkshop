@@ -1,0 +1,18 @@
+{
+    "name": "UsefulDataTypes.Editor",
+    "rootNamespace": "UsefulDataTypes.Editor",
+    "references": [
+        "GUID:a031ae05006fb4f468fd8cfafa46e6c0",
+        "GUID:f41c9ed446b769645998639c9b164abf",
+        "GUID:cf561958a85613c42b7f2f43bab85172"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

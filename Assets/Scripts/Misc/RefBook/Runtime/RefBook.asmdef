@@ -1,0 +1,16 @@
+{
+    "name": "RefBook",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f4b9759eb03629344b73c10d87fac2fc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
