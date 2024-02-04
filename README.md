@@ -1,1 +1,1 @@
-LevelUp topluluğunda yaptımız Uzun Dönemli Kod Yönetimi adlı workshopımızın örnek kodları
+LevelUp topluluğunda yaptımız Uzun Dönemli Kod Yönetimi adlı workshopımızın örnek kodları :smile:
